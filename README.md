@@ -1,19 +1,21 @@
-Advanced Android Sample App
+Sunshine Weather App (Udacity Nanodgree Assignment)
 ===================================
 
 Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
+Also includes a watchface for Android smartwatch.
 
 Pre-requisites
 --------------
 Android SDK 21 or Higher
-Build Tools version 21.1.2
+Build Tools version 23.0.3
 Android Support AppCompat 22.2.0
 Android Support Annotations 22.2.0
 Android Support GridLayout 22.2.0
 Android Support CardView 22.2.0
 Android Support Design 22.2.0
 Android Support RecyclerView 22.2.0
-Google Play Services GCM 7.0.0
+Google Play Services GCM 8+
+Google Play Services Wearable 8+
 BumpTech Glide 3.5.2
 
 
@@ -22,14 +24,6 @@ Getting Started
 This sample uses the Gradle build system.  To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
