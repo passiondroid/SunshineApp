@@ -5,8 +5,8 @@ Synchronizes weather information from OpenWeatherMap on Android Phones and Table
 Also includes a watchface for Android smartwatch.
 
 ![Alt text](/device1.png?raw=true "Optional Title")
-![Alt text](/Capture.PNG?raw=true "Optional Title")
-![Alt text](/Capture1.PNG?raw=true "Optional Title")
+![Alt text](/CAPTURE.PNG?raw=true "Optional Title")
+![Alt text](/CAPTURE1.PNG?raw=true "Optional Title")
 
 Pre-requisites
 --------------
