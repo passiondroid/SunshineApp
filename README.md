@@ -10,17 +10,17 @@ Also includes a watchface for Android smartwatch.
 
 Pre-requisites
 --------------
-Android SDK 21 or Higher
-Build Tools version 23.0.3
-Android Support AppCompat 22.2.0
-Android Support Annotations 22.2.0
-Android Support GridLayout 22.2.0
-Android Support CardView 22.2.0
-Android Support Design 22.2.0
-Android Support RecyclerView 22.2.0
-Google Play Services GCM 8+
-Google Play Services Wearable 8+
-BumpTech Glide 3.5.2
+* Android SDK 21 or Higher
+* Build Tools version 23.0.3
+* Android Support AppCompat 22.2.0
+* Android Support Annotations 22.2.0
+* Android Support GridLayout 22.2.0
+* Android Support CardView 22.2.0
+* Android Support Design 22.2.0
+* Android Support RecyclerView 22.2.0
+* Google Play Services GCM 8+
+* Google Play Services Wearable 8+
+* BumpTech Glide 3.5.2
 
 
 Getting Started
